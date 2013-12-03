@@ -1,7 +1,7 @@
 jsRusTextToDate (AngularJS)
 ===============
 
-Convert russian text to date
+Convert russian text to date (http://jsfiddle.net/dRRb5/)
 
 Html body:
 ```html
